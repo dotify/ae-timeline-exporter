@@ -33,9 +33,9 @@ to GreenSock TimelineMax Javascript format.
 
 # Compatibility table
 
-| --- | --- |
 | AE version | status |
-| CS6 | ? |
-| CC-2014 | |
-| CC | ? |
+| ---------- | ------ |
+| CS6        | ?      |
+| CC-2014    |        |
+| CC         | ?      |
 
