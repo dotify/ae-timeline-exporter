@@ -14,17 +14,17 @@ to GreenSock TimelineMax Javascript format.
 
 1. Copy the `.jsx` file in the Plugins folder  
    [How to install AE plugins](https://helpx.adobe.com/after-effects/using/plug-ins.html)
- . Start or re-start AE
- . Check _Timeline Exporter_ is listed in _File > Scripts_
+2. Start or re-start AE
+3. Check _Timeline Exporter_ is listed in _File > Scripts_
 
 # Usage
 
 1. Create a new AE composition
- . Animate image elements with keyframes
- . Select the layers you want to export from bottom to top (selection order is important)
- . Run the plugin _(File > Scripts > TimelineMax Exporter.jsx)_
- . Pick a scene name and validate
- . Pick a JS file name when prompted (add extension)
+2. Animate image elements with keyframes
+3. Select the layers you want to export from bottom to top (selection order is important)
+4. Run the plugin _(File > Scripts > TimelineMax Exporter.jsx)_
+5. Pick a scene name and validate
+6. Pick a JS file name when prompted (add extension)
 
 ## Supported features
 
