@@ -39,3 +39,10 @@ to GreenSock TimelineMax Javascript format.
 | CC-2014    |        |
 | CC         | ?      |
 
+# Roadmap
+
+- Generalize export plugin
+- Use a standardized or mainstream JSON export format
+- Add converters from JSON to optimized JS format
+- Write Emscripten versions of the player, exports ?
+- Write Web Assembly versions ?
