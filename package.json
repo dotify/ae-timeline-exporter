@@ -1,0 +1,24 @@
+{
+  "name": "after-effects-web-animation",
+  "version": "0.0.1",
+  "description": "After Effects Web Animation export",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotify/after-effects-web-animation.git"
+  },
+  "keywords": [
+    "after-effects",
+    "web",
+    "animation"
+  ],
+  "author": "Dotify",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dotify/after-effects-web-animation/issues"
+  },
+  "homepage": "https://github.com/dotify/after-effects-web-animation#readme"
+}
